@@ -5,7 +5,9 @@ print("If your number is greater type high. If your number is lower type low. If
 UserAnswer = int(input())
 YourAnswer = int(50 / 2)
 h = "high"
+
 l = "low"
+
 c = "correct"
 
 while UserAnswer != c:
